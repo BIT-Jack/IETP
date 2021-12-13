@@ -5,4 +5,4 @@ These codes are official codes for paper An Ensemble Learning Framework for Traj
 We provides codes of our experiments in the paper. It is an example of IETP which uses CSP models as base learners.
 The experiments in the paper are based on NGSIM datasets.
 
-If you want to run the codes, please download the datasets and create suitable directories in your own file folders. Thank you.
+If you want to run the codes, please download the NGSIM datasets and create suitable directories in your own file folders. The data-processing in this case is the same as it in  the paper: convolutional social pooling for vehicle trajectory prediction.
